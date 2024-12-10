@@ -49,3 +49,9 @@ Take guidance from Snowflake architecture for Data Platform.
 
 Create an architecture from the following workshop:
 https://catalog.us-east-1.prod.workshops.aws/workshops/3c29bc13-0f30-42f7-9f97-4ce8e2ef9b17/en-US
+
+
+
+Take guidance from the following architecture. 
+
+https://aws.amazon.com/blogs/architecture/how-parametric-built-audit-surveillance-using-aws-data-lake-architecture/
