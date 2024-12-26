@@ -1,6 +1,8 @@
 # Big_Data_Analytics
 
-## Documentation for Big-Data Analytics Architecture using AWS CDK
+
+![alt text](Big-Data-Analytics-Architecture.drawio-1.png)
+
 
 ### Overview
 
@@ -111,18 +113,4 @@ cdk deploy   # Deploy the stack to AWS
 - **Cost Efficiency**: Uses serverless services like Athena and lifecycle management in S3.
 - **Flexibility**: Supports both batch and real-time processing.
 - **Integration**: Combines multiple AWS services seamlessly for end-to-end analytics.
-
----
-
-## **Future Enhancements**
-
-- Integrate Amazon SageMaker for machine learning capabilities.
-- Automate Glue job triggering with AWS Step Functions.
-- Enable versioning for S3 buckets to manage historical data.
-
----
-
-## **Conclusion**
-
-This AWS CDK-based Big Data Analytics architecture is designed to handle diverse analytics workloads efficiently, providing a foundation for data-driven decision-making.
 
