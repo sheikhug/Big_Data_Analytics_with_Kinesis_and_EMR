@@ -97,8 +97,11 @@ This AWS CDK stack provisions a Big Data Analytics architecture that ingests, pr
 Run the following commands:
 
 ```bash
-npm install  # Install dependencies
-cdk deploy   # Deploy the stack to AWS
+npm install     # Install dependencies
+cdk ls          # List stacks in the app
+cdk synth       # Synthesize the cloudformation template
+cdk deploy      # Deploy the stack to AWS
+cdk destroy     # Destroy the stack
 ```
 
 #### 3. Post-Deployment Tasks
