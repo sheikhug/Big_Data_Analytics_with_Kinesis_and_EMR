@@ -1,4 +1,4 @@
-# Big_Data_Analytics
+# Big Data Analytics On Input Data Stream using AWS EMR
 
 
 ![alt text](Big-Data-Analytics-Architecture.drawio-1.png)
