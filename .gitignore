@@ -9,3 +9,8 @@ cdk/.cdk.staging
 cdk/cdk.out
 
 cdk/lib/emr-scripts/emr-stack.ts
+
+node_modules/
+
+*.drawio
+

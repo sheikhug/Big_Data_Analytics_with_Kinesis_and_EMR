@@ -1,8 +1,6 @@
-# Big Data Analytics On Input Data Stream using AWS EMR
-
+# Big Data Analytics Pipeline with AWS CDK
 
 ![alt text](Big-Data-Analytics-Architecture.drawio-1.png)
-
 
 ### Overview
 
